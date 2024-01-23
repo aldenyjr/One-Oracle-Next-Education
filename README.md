@@ -10,7 +10,7 @@ Aqui deixarei os exercícios e desafios feitos por mim em cada um dos 7 cursos d
 
 1. [Lógica de programação: Mergulhe em programação com JavaScript](https://cursos.alura.com.br/certificate/juniorfilhobom/logica-programacao-mergulhe-programacao-javascript)
 
-2. Lógica de programação: Explore funções e listas
+2. [Lógica de programação: Explore funções e listas](https://cursos.alura.com.br/user/juniorfilhobom/course/logica-programacao-funcoes-listas/certificate)
 
 3. HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
