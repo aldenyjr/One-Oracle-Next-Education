@@ -14,7 +14,7 @@ Aqui deixarei os exercícios e desafios feitos por mim em cada um dos 7 cursos d
 
 3. [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/user/juniorfilhobom/course/html-css-ambiente-arquivos-tags/certificate)
 
-4. HTML e CSS: Classes, posicionamento e Flexbox
+4. [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/user/juniorfilhobom/course/html-css-classes-posicionamento-flexbox/certificate)
 
 5. HTML e CSS: cabeçalho, footer e variáveis CSS
 
