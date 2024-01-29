@@ -18,7 +18,7 @@ Aqui deixarei os exercícios e desafios feitos por mim em cada um dos 7 cursos d
 
 5. [HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/certificate/juniorfilhobom/html-css-cabecalho-footer-variaveis-css)
 
-6. HTML e CSS: trabalhando com responsividade e publicação de projetos
+6. [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/juniorfilhobom/html-css-responsividade-publicacao-projetos)
 
 7. Git e GitHub: compartilhando e colaborando em projetos
 
