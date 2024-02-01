@@ -20,7 +20,7 @@ Aqui deixarei os exercícios e desafios feitos por mim em cada um dos 7 cursos d
 
 6. [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/juniorfilhobom/html-css-responsividade-publicacao-projetos)
 
-7. Git e GitHub: compartilhando e colaborando em projetos
+7. [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/certificate/juniorfilhobom/git-github-compartilhando-colaborando-projetos)
 
 ### Autor
 
