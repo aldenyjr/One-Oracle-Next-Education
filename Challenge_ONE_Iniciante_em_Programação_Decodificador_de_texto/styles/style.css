@@ -257,7 +257,27 @@ input:checked + .slider:before {
 
 /* Responsividade */
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
+  .conteudo__texto {
+    height: 70vh;
+  }
+
+  .conteudo__texto__principal__botao .criptografar,
+  .descriptografar,
+  .copiar {
+    padding: 1rem 4rem;
+  }
+
+  .conteudo__texto__secundario__imagem__svg {
+    width: 250px;
+  }
+
+  .conteudo__texto__secundario__imagem__titulo {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
   .conteudo__texto {
     flex-direction: column;
   }
@@ -269,8 +289,14 @@ input:checked + .slider:before {
   .conteudo__texto__principal__botao .criptografar,
   .descriptografar,
   .copiar {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+    padding: 1rem 4rem;
   }
+
+  .conteudo__texto__secundario__imagem__svg {
+    display: none;
+  }
+
   .conteudo__texto__secundario__imagem__texto {
     font-size: 1.5rem;
   }
@@ -279,6 +305,7 @@ input:checked + .slider:before {
     font-size: 2.25rem;
   }
 }
+
 @media (max-width: 500px) {
   .cabecalho {
     padding: 1rem;
@@ -291,7 +318,7 @@ input:checked + .slider:before {
 
   .conteudo__titulo {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.25rem;
   }
 
   .conteudo__texto {
@@ -306,6 +333,7 @@ input:checked + .slider:before {
   .conteudo__texto__principal__botao .criptografar,
   .descriptografar,
   .copiar {
+    font-size: 1rem;
     padding: 0.5rem 2rem;
   }
 
@@ -314,10 +342,19 @@ input:checked + .slider:before {
   }
 
   .conteudo__texto__secundario__imagem__titulo {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 
   .conteudo__texto__secundario__imagem__texto {
     font-size: 0.725rem;
   }
+  .footer {
+    padding: 1rem 2rem;
+  }
+  .footer p {
+    font-size: 0.725rem;
+  }
+}
+
+@media (max-width: 320px) {
 }
